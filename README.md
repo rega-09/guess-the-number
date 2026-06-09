@@ -57,6 +57,9 @@ Add a screenshot of the game interface here.
 * Local storage for persistent high scores
 * Mobile-friendly enhancements
 
+## special thanks to JONAS
+
+
 ## Author
 
 Rahul Kumar
