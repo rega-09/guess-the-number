@@ -24,7 +24,7 @@ A simple and interactive number guessing game built using **HTML**, **CSS**, and
 2. Click the **Check!** button.
 3. Receive feedback on whether your guess is too high or too low.
 4. Keep guessing until you find the correct number.
-5. Try to achieve the highest score possible.
+5. Try to achieve the highest score possible .
 6. Click **Again!** to start a new game.
 
 ## Learning Outcomes
@@ -56,6 +56,7 @@ Add a screenshot of the game interface here.
 * Timer functionality
 * Local storage for persistent high scores
 * Mobile-friendly enhancements
+* can play with your friends
 
 ## special thanks to JONAS
 
